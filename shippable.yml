@@ -7,4 +7,3 @@ rvm:
   ci: 
     - ruby -v
     #- sleep 9m
- 
